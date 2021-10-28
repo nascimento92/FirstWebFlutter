@@ -1,0 +1,6 @@
+firebase init hosting = inicia o projeto no firebase
+flutter build web = cria o projeto web
+firabse deploy --only hosting = faz o deploy no firebase
+
+Link:
+https://flutterwebstudy-11fae.web.app
